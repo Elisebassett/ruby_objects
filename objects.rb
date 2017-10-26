@@ -13,10 +13,10 @@ class Calculator
   end
 end
 
-# puts Calculator.add(10,2)
-# puts Calculator.subtract(10,2)
-# puts Calculator.multiply(10,2)
-# puts Calculator.divide(10,2)
+puts Calculator.add(10,2)
+puts Calculator.subtract(10,2)
+puts Calculator.multiply(10,2)
+puts Calculator.divide(10,2)
 
 
 class Elevator
